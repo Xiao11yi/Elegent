@@ -1,0 +1,1 @@
+import{a1 as a}from"./index-08731fde.js";function r(){return a({url:"/manage/chat/list",method:"get"})}function n(t){return a({url:"/manage/chat/"+t,method:"get"})}function s(t){return a({url:"/manage/chat/add",method:"post",data:t,headers:{repeatSubmit:!1}})}export{n as a,s as b,r as g};
